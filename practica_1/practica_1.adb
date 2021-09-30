@@ -14,7 +14,6 @@ procedure Practica_1 is
    Circular_Buffer_Capacity: constant Integer := 5;
 
    type Circular_Buffer_Index is mod Circular_Buffer_Capacity;
-   type Circular_Buffer_Length is range 0..Circular_Buffer_Capacity;
    type Circular_Buffer_Data is array(Circular_Buffer_Index) of Integer;
    type Circular_Buffer is
    record
