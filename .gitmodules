@@ -1,0 +1,3 @@
+[submodule "practica_3"]
+	path = practica_3
+	url = git@github.com:anpep/POV_Project.git
