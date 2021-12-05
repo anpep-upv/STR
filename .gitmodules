@@ -1,3 +1,6 @@
 [submodule "practica_3"]
 	path = practica_3
 	url = git@github.com:anpep/POV_Project.git
+[submodule "practica_4"]
+	path = practica_4
+	url = git@github.com:anpep/Speedometer.git
